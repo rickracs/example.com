@@ -1,0 +1,28 @@
+- id: prev_page
+  translation: "Predošlá strana"
+
+- id: next_page
+  translation: "Ďalšia strana"
+
+- id: read_time
+  translation:
+    one: "1 min"
+    other: "{{ .Count }} min"
+
+- id: toc
+  translation: "Obsah"
+
+- id: translations
+  translation: "Preklady"
+
+- id: home
+  translation: "Domov"
+
+- id: edit_post
+  translation: "Upraviť"
+
+- id: code_copy
+  translation: "Kopírovať"
+
+- id: code_copied
+  translation: "Skopírované!"

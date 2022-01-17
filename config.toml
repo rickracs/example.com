@@ -1,4 +1,75 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+baseURL = 'http://minmax.sk/'
+languageCode = 'sk-sk'
+title = 'MinMax'
+theme = 'PaperMod'
+defaultContentLanguage = 'sk'
+googleAnalytics = 'G-LG2BD3ZMBK'
+
+[params]
+env = "production"
+title = 'MinMax'
+description = "Vybavenie pre vašu domácnosť a koníčky na úrovni"
+author = "RickRacs"
+DateFormat = "1.3.2006"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = false
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+#Table of contents do budúcna môže byť
+showtoc = false
+tocopen = false
+
+
+[params.analytics.google]
+SiteVerificationTag = "3b7LwzVW5vazkwnu9dXMhFCnb4bOKRPzTgWc-NZKRWI"
+  #[params.label]
+ # text = "MinMax"
+ # icon = "/apple-touch-icon.png"
+ # iconHeight = 35
+
+  [params.profileMode]
+  enabled = false
+  title = "MinMax"
+  subtitle = "Vybavenie pre vašu domácnosť a koníčky na úrovni"
+  imageUrl = "<img location>"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "my image"
+
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
+
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+     [params.homeInfoParams]
+  Title = "MinMax"
+  Content = "Vybavenie pre vašu domácnosť a koníčky na úrovni. Minimálne úsilie, Maximálny pôžitok"
+
+    [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  
+[[menu.main]]
+identifier = "categories"
+name = "Kategórie"
+url = "/categories/"
+weight = 10
+
+
+
+[[menu.main]]
+identifier = "archives"
+name = "Archív"
+url = "/archives/"
+weight = 20
