@@ -1,4 +1,4 @@
-baseURL = 'http://minmax.sk/'
+baseURL = 'https://www.minmax.sk/'
 languageCode = 'sk-sk'
 title = 'MinMax'
 theme = 'PaperMod'
