@@ -28,10 +28,10 @@ tocopen = false
 
 [params.analytics.google]
 SiteVerificationTag = "3b7LwzVW5vazkwnu9dXMhFCnb4bOKRPzTgWc-NZKRWI"
-  #[params.label]
- # text = "MinMax"
- # icon = "/apple-touch-icon.png"
- # iconHeight = 35
+  [params.label]
+  text = "MinMax"
+  icon = "/thinking-man-tn.png"
+  iconHeight = 45
 
 
 [params.homeInfoParams]
