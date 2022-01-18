@@ -9,10 +9,10 @@ googleAnalytics = 'G-LG2BD3ZMBK'
 env = "production"
 title = 'MinMax'
 description = "Vybavenie pre vašu domácnosť a koníčky na úrovni"
-author = "RickRacs"
-DateFormat = "1.3.2006"
+#author = "RickRacs"
+DateFormat = "2. January,  2006"
 ShowReadingTime = true
-ShowShareButtons = true
+ShowShareButtons = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = false
 ShowCodeCopyButtons = false
@@ -33,29 +33,27 @@ SiteVerificationTag = "3b7LwzVW5vazkwnu9dXMhFCnb4bOKRPzTgWc-NZKRWI"
  # icon = "/apple-touch-icon.png"
  # iconHeight = 35
 
-  [params.profileMode]
-  enabled = false
-  title = "MinMax"
-  subtitle = "Vybavenie pre vašu domácnosť a koníčky na úrovni"
-  imageUrl = "<img location>"
-  imageWidth = 120
-  imageHeight = 120
-  imageTitle = "my image"
 
-    [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "posts"
-
-    [[params.profileMode.buttons]]
-    name = "Tags"
-    url = "tags"
-
-     [params.homeInfoParams]
+[params.homeInfoParams]
   Title = "MinMax"
-  Content = "Vybavenie pre vašu domácnosť a koníčky na úrovni. Minimálne úsilie, Maximálny pôžitok"
+  Content = "Návody na optimalizáciu svojich rozhodnutí."
+
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://instagram.com/minmax.sk"
+ 
+ 
+  [[params.socialIcons]]
+    name = "goodreads"
+    url = "https://www.goodreads.com/user/show/52913823-richard-r"
+ 
+  [[params.socialIcons]]
+    name = "spotify"
+    url = "https://open.spotify.com/user/razon."
+
 
     [params.cover]
-  hidden = true
+  hidden = false
   hiddenInList = true
   hiddenInSingle = true
 
@@ -73,3 +71,4 @@ identifier = "archives"
 name = "Archív"
 url = "/archives/"
 weight = 20
+

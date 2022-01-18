@@ -1,8 +1,8 @@
 - id: prev_page
-  translation: "Predošlá strana"
+  translation: "Ďalší článok"
 
 - id: next_page
-  translation: "Ďalšia strana"
+  translation: "Predošlý článok"
 
 - id: read_time
   translation:
