@@ -1,7 +1,8 @@
 ---
 title: "Druhý článok"
 date: 2022-01-18T22:59:14+01:00
-draft: false
+draft: true
+categories: ["foto"]
 ---
 
 ## Test nadpis 2

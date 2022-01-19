@@ -2,7 +2,7 @@
 title: "Predstavenie blogu"
 date: 2022-01-18T17:51:14+01:00
 draft: false
-categories: ["first"]
+
 
 cover:
     image: "/thinking-man.png" # image path/url
