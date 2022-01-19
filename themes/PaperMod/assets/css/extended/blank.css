@@ -17,3 +17,19 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 .logo a img  {
     margin:-5px;
 }
+
+.note+p { /*next paragraph after <div class="note"></div>*/
+    padding: 8px 35px 8px 14px;
+    margin-bottom: 20px;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+    border-radius: 4px;
+    color: #1c4a61;
+    background-color: #96bdd1;
+    border-color: #266585;
+}
+
+.note+p:before { /*aditionally prepend `⚠ Note:` to message: */ 
+    content: "Tip: ";
+    font-weight: bold;
+ /*   display: block;*/
+}
