@@ -3,7 +3,7 @@ languageCode = 'sk-sk'
 title = 'MinMax'
 theme = 'PaperMod'
 defaultContentLanguage = 'sk'
-googleAnalytics = 'G-LG2BD3ZMBK'
+#googleAnalytics = 'G-LG2BD3ZMBK'
 
 [params]
 env = "production"
@@ -28,6 +28,8 @@ tocopen = false
 
 [params.analytics.google]
 SiteVerificationTag = "3b7LwzVW5vazkwnu9dXMhFCnb4bOKRPzTgWc-NZKRWI"
+
+
   [params.label]
   text = "MinMax"
   icon = "/thinking-man-tn.png"
