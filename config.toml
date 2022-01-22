@@ -6,7 +6,7 @@ defaultContentLanguage = 'sk'
 #googleAnalytics = 'G-LG2BD3ZMBK'
 
 [params]
-env = "production"
+#env = "production"
 title = 'MinMax'
 description = "Vybavenie pre vašu domácnosť a koníčky na úrovni"
 #author = "RickRacs"
