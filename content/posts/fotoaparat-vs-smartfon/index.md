@@ -47,7 +47,7 @@ Toto bol veľmi zjednodušený popis rozdielov v senzoroch, ak chcete vedieť vi
 
 ### Softvér
 
-Pretože kvôli obmedzeným rozmerom (hrúbka) vedia do telefónu dať len tieto menšie senzory, výrobcovia investovali nemalé peniaze do softvéru aby sa vedeli priblížiť k reálnym fotoaparátom. Čo to znamená? Rôzne algoritmy pomáhajú "odhadnúť" čo fotíme a snažia sa chýbajúce údaje doplniť výpočtami. Ako príklad spomeniem nočnú scénu. Panasonic G80 spraví jednu fotku a tak ako je ju uloží na pamäťovú kartu. Samsung S9 v nočnom móde hneď ako stlačíme spúšť analyzuje scénu, spraví viac fotiek s rozličnou svetelnosťou a na pamäťovú kartu uloží kombinovaný výsledok.  
+Pretože kvôli obmedzeným rozmerom (hrúbka) vedia do telefónu dať len tieto menšie senzory, výrobcovia investovali nemalé peniaze do softvéru, aby sa vedeli priblížiť k reálnym fotoaparátom. Čo to znamená? Rôzne algoritmy pomáhajú "odhadnúť" čo fotíme a snažia sa chýbajúce údaje doplniť výpočtami. Ako príklad spomeniem nočnú scénu. Panasonic G80 spraví jednu fotku a tak ako je ju uloží na pamäťovú kartu. Samsung S9 v nočnom móde hneď ako stlačíme spúšť analyzuje scénu, spraví viac fotiek s rozličnou svetelnosťou a na pamäťovú kartu uloží kombinovaný výsledok.  
 
 ### Ergonómia
 Fotoaparát je špeciálne prispôsobený rýchlemu ovládaniu, s niekoľkými fyzickými ovládacími prvkami, vďaka ktorým ho môžeme do 2-3 sekúnd od zapnutia nastaviť na aktuálnu scénu.  
@@ -116,7 +116,7 @@ Obidve zariadenia mali problém so zaostrením v úplnej tme, ale podľa môjho 
 
 ### Zmena kompozície a pomocné svetlo
 
-Aby som načrtol dôležitosť kompozície a práce so svetlom ktorým sa budem venovať v ďalších článkoch, snažil som sa z predmetov dostať čo najlepšiu scénu, a to premiestnením subjektov, zmenou uhla fotenia ale aj použitím pomocného osvetlenia (obyčajná stolová lampa naľavo od scény)
+Aby som načrtol dôležitosť kompozície a práce so svetlom, ktorým sa budem venovať v ďalších článkoch, snažil som sa z predmetov dostať čo najlepšiu scénu, a to premiestnením subjektov, zmenou uhla fotenia, ale aj použitím pomocného osvetlenia (obyčajná stolová lampa naľavo od scény)
 
 Ako vidíte, v tomto smere plno automatický mód Samsungu úplne zlyhal vo vyhotovení mojej predstavy, pretože sa znovu snažil rovnomerne osvetliť scénu, čo v tomto prípade nebolo mojím cieľom. Vypnutie HDR módu to napravilo, výsledky vidíte nižšie.
 
@@ -129,11 +129,11 @@ Ako vidíte, v tomto smere plno automatický mód Samsungu úplne zlyhal vo vyho
 
 ## Záver
 
-Verím že vám toto porovnanie pomohlo pochopiť rozdiely medzi fotoaparátom a smartfónom a tiež vám pomôže vo výbere medzi nimi.
+Verím, že vám toto porovnanie pomohlo pochopiť rozdiely medzi fotoaparátom a smartfónom a tiež vám pomôže vo výbere medzi nimi.
 Ak nie, alebo ešte nie ste rozhodnutí, položte si tieto otázky:
 * použijem fotky na niečo iné ako zdieľanie na sociálnych sieťach?
-* nebude mi vadiť že na ramene budem nosiť cca +1 kg oproti mobilu vo vrecku?
-* chcem venovať dostatočnú pozornosť a čas aby som zo svojich fotiek dostal čo najviac, alebo chcem iba kliknúť spúšť a spoľahnúť sa na automatiku?
+* nebude mi vadiť, že na ramene budem nosiť cca +1 kg oproti mobilu vo vrecku?
+* chcem venovať dostatočnú pozornosť a čas, aby som zo svojich fotiek dostal čo najviac, alebo chcem iba kliknúť spúšť a spoľahnúť sa na automatiku?
 * mám v pláne svoje fotografovanie ďalej rozvíjať a investovať do príslušenstva a objektívov?
 
  Či máte smartfón alebo fotoaparát, najdôležitejšia vec je naučiť sa robiť dobré fotky. Tejto a podobným témam sa budem venovať v budúcich článkoch.
