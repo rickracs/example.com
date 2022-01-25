@@ -24,7 +24,7 @@ V tomto článku porovnám tieto dve zariadenia v niekoľkých situáciách na j
 Na toto porovnanie som vybral dve zariadenia strednej triedy a to: 
 
 ### Fotoaparát Panasonic Lumix G80 + základný objektív 12-60mm
-Tento fotoaparát je na trhu už 5 rokov, a stále patrí medzi najlepšie v danej cenovej skupine. Má stabilizáciu obrazu v tele aj v objektíve, nahráva 4K video, je odolný voči prachu a vlhkosti (používal som ho už aj v daždi) a má veľmi dobrú ergonómiu.  
+Tento fotoaparát je na trhu už 5 rokov a stále patrí medzi najlepšie v danej cenovej skupine. Má stabilizáciu obrazu v tele aj v objektíve, nahráva 4K video, je odolný voči prachu a vlhkosti (používal som ho už aj v daždi) a má veľmi dobrú ergonómiu.  
 Nový s týmto objektívom ho viete kúpiť za 500-600 eur. 
 
 ### Smartfón Samsung S9
@@ -37,29 +37,35 @@ Poďme sa bližšie pozrieť na rozdiely medzi zariadeniami
 
 ### Hardvér
 
-Najväčší rozdiel pre potreby fotografa je vo veľkosti senzora, v skratke tá ovplyvňuje koľko svetla je schopný fotoaparát zachytiť a toto má dopad na kvalitu fotky. Čím väčší senzor, tým väčšiu citlivosť na svetlo (ISO) si môžeme dovoliť. Samsung S9 má veľkosť senzora  1/2.55" (6.2x4.5mm), Panasonic G80 17x13mm, čo je viac ako 7 násobný rozdiel v ploche. Tento parameter je dôležitý pri výbere telefónu. Najnovšie a najdrahšie telefóny majú senzor 1/1.33", čo je stále viac ako 3 násobný rozdiel oproti spomínanému fotoaparátu.
+Najväčší rozdiel pre potreby fotografa je vo veľkosti senzora, v skratke tá ovplyvňuje koľko svetla je schopný fotoaparát zachytiť a toto má dopad na kvalitu fotky. Čím väčší senzor, tým väčšiu citlivosť na svetlo (ISO) si môžeme dovoliť. Samsung S9 má veľkosť senzora  1/2.55" (6.2x4.5mm), Panasonic G80 17x13mm, čo je viac ako 7 násobný rozdiel v ploche. Tento parameter je dôležitý pri výbere telefónu, najnovšie a najdrahšie telefóny majú senzor 1/1.33", čo je stále viac ako 3 násobný rozdiel oproti spomínanému fotoaparátu.
+
+{{% notice note %}}
+
+{{% /notice %}}
+
+Toto bol veľmi zjednodušený popis rozdielov v senzoroch, ak chcete vedieť viac, navštívte napríklad tento [link](https://www.fotolab.cz/blog/velikost-snimace/)
 
 ### Softvér
 
 Pretože kvôli obmedzeným rozmerom (hrúbka) vedia do telefónu dať len tieto menšie senzory, výrobcovia investovali nemalé peniaze do softvéru aby sa vedeli priblížiť k reálnym fotoaparátom. Čo to znamená? Rôzne algoritmy pomáhajú "odhadnúť" čo fotíme a snažia sa chýbajúce údaje doplniť výpočtami. Ako príklad spomeniem nočnú scénu. Panasonic G80 spraví jednu fotku a tak ako je ju uloží na pamäťovú kartu. Samsung S9 v nočnom móde hneď ako stlačíme spúšť analyzuje scénu, spraví viac fotiek s rozličnou svetelnosťou a na pamäťovú kartu uloží kombinovaný výsledok.  
 
 ### Ergonómia
-Fotoaparát je špeciálne prispôsobený rýchlemu ovládaniu, s niekoľkými fyzickými ovládacími prvkami, vďaka ktorým môžeme do 2-3 sekúnd od zapnutia nastaviť na aktuálnu scénu.  
+Fotoaparát je špeciálne prispôsobený rýchlemu ovládaniu, s niekoľkými fyzickými ovládacími prvkami, vďaka ktorým ho môžeme do 2-3 sekúnd od zapnutia nastaviť na aktuálnu scénu.  
 
-Pri telefóne sa musíme spoliehať na automatický mód alebo sa na obrazovke preklikávať medzi nastaveniami ktoré hľadáme. Na druhej strane, telefóne máme stále pri sebe čo pri fotoaparáte to tak nemusí byť, tým pádom platí často opakovaná hláška - "najlepší fotoaparát je ten, ktorý máme so sebou." Viete aké zariadenie som použil na fotenie titulnej fotky? starý tablet s 2 MPix fotoaparátom - pracujeme ś tým čo máme k dispozícii.
+Pri telefóne sa musíme spoliehať na automatický mód alebo sa na obrazovke preklikávať medzi nastaveniami ktoré hľadáme. Na druhej strane, telefón máme stále so sebou, tým pádom platí často opakovaná hláška - "najlepší fotoaparát je ten, ktorý máme so sebou." Viete aké zariadenie som použil na fotenie titulnej fotky? Starý tablet s 2 MPix fotoaparátom - pracujeme ś tým čo máme k dispozícii.
 
 
 
 
 ## Scéna a porovnanie
 
-Ako scénu som použil rôzne objekty ktoré som našiel okolo seba, položil som ich na biely stôl a najskôr som si urobil fotku s telefónom ktorú robíme rýchlo, bez hlbšieho zamyslenia
+Ako scénu som použil rôzne objekty ktoré som našiel okolo seba, položil som ich na biely stôl a najskôr som vyhotovil fotku s telefónom ktorú robíme rýchlo, bez hlbšieho zamyslenia
 
 
 {{< figure align="center" src="images/thumbnails/tn-first-try-s9.jpg" link="images/first-try-s9.jpg" alt="S9 first photo of toys" caption="Samsung S9 - prvý pokus">}}
 
 
-Jednoduchá scéna, postavička a jeden ďalší predmet v rôznych vzdialenostiach od pozorovateľa, v pozadí kniha a hodiny.
+Jednoduchá scéna, postavička a sova v rôznych vzdialenostiach od pozorovateľa, v pozadí kniha a hodiny.
 
 ### Metóda porovnania
 Pre čo najjednoduchšie porovnanie som obidve zariadenia používal v plne automatickom režime, bez nutnosti použitia rôznych ponúkaných nastavení. 
